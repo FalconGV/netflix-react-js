@@ -8,6 +8,6 @@ here the link ⬇️ ⬇️ ⬇️
 
 Stack of technologies that were used: 
 * firebase, 
- TMDB API, 
- Netlify demployment with setup of .env variables, 
- Vercel deployment with setup of .env variables.
+* TMDB API, 
+* Netlify demployment with setup of .env variables, 
+* Vercel deployment with setup of .env variables.
